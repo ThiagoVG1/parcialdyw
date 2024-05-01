@@ -205,6 +205,8 @@ header{                   /*Define el estilo del header*/
      .fotoparcial{  /*Disposición de las imágenes */
       width: 90%;
       height: auto;
+      margin-left: 20px;
+      margin-right: 20px;
       
     }
     .textofooter{     /*Texto de los subtitulos*/  
